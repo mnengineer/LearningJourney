@@ -88,66 +88,66 @@ This repository is a record of my journey in technical learning, including techn
 **Programming**
 
 - Kotlin / Android
-    - [ ]  https://kotlinlang.org/
-    - [ ]  https://developer.android.com/?hl=ja
-    - [ ]  https://android-developers.googleblog.com/
-    - [ ]  https://medium.com/androiddevelopers
-    - [ ]  https://www.droidcon.com/
-    - [ ]  https://qiita.com/blendthink/items/aa70b8b3106fb4e3555f
-    - [ ]  https://www.youtube.com/user/androiddevelopers
-    - [ ]  https://medium.com/mindorks/how-to-be-an-android-expert-a-d-s-002-861bd5754742
+  - https://kotlinlang.org/
+  - https://developer.android.com/?hl=ja
+  - https://android-developers.googleblog.com/
+  - https://medium.com/androiddevelopers
+  - https://www.droidcon.com/
+  - https://qiita.com/blendthink/items/aa70b8b3106fb4e3555f
+  - https://www.youtube.com/user/androiddevelopers
+  - https://medium.com/mindorks/how-to-be-an-android-expert-a-d-s-002-861bd5754742
 - Flutter
-    - [ ]  https://docs.flutter.dev/
-    - [ ]  https://twitter.com/FlutterDev
-    - [ ]  https://www.youtube.com/flutterdev
-    - [ ]  https://medium.com/flutter
-    - [ ]  https://theflutterway.medium.com/
-    - [ ]  https://github.com/flutter
+  - https://docs.flutter.dev/
+  - https://twitter.com/FlutterDev
+  - https://www.youtube.com/flutterdev
+  - https://medium.com/flutter
+  - https://theflutterway.medium.com/
+  - https://github.com/flutter
 - Dart / Firebase
-    - [ ]  https://dart.dev/
-    - [ ]  https://firebase.google.com/?hl=ja
-    - [ ]  https://cloud.google.com/?hl=ja
+  - https://dart.dev/
+  - https://firebase.google.com/?hl=ja
+  - https://cloud.google.com/?hl=ja
 - Architecture
-    - [ ]  SOLID
-    - [ ]  TDD
-    - [ ]  DDD
-    - [ ]  Clean Architecture
-    - [ ]  Design Patterns
+  - SOLID
+  - TDD
+  - DDD
+  - Clean Architecture
+  - Design Patterns
 - Computer Science
-    - [ ]  Data / Functions / Control Flow / OOP / Functional / Data Structures / Algorithms: Universal principles for all languages
-    - [ ]  [Recursion](https://recursionist.io/dashboard/courses)
-    - [ ]  [coding-interview-university](https://github.com/jwasham/coding-interview-university)
-    - [ ]  [Certificate Programs - Computer Science](https://www.uopeople.edu/programs/certificate/computer-science/)
-    - [ ]  Hardware: How computers work: Logic Gates, CPU
+  - Data / Functions / Control Flow / OOP / Functional / Data Structures / Algorithms: Universal principles for all languages
+  - [Recursion](https://recursionist.io/dashboard/courses)
+  - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+  - [Certificate Programs - Computer Science](https://www.uopeople.edu/programs/certificate/computer-science/)
+  -  Hardware: How computers work: Logic Gates, CPU
 - Essential Knowledge
-    - [ ]  [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+  - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - Flutter Roadmap
-    - [ ]  https://roadmap.sh/flutter
-    - [ ]  https://javarevisited.blogspot.com/2023/07/the-2023-flutter-developer-roadmap.html#axzz88LezjG00
-    - [ ]  https://medium.com/flutter-jp/flutter-learning-c5640c5f05b9
+  - https://roadmap.sh/flutter
+  - https://javarevisited.blogspot.com/2023/07/the-2023-flutter-developer-roadmap.html#axzz88LezjG00
+  - https://medium.com/flutter-jp/flutter-learning-c5640c5f05b9
 - Android Roadmap
-    - [ ]  https://roadmap.sh/android / https://javarevisited.blogspot.com/2023/01/the-2023-android-developer-roadmap.html#axzz8CXINxiZF
+  - https://roadmap.sh/android / https://javarevisited.blogspot.com/2023/01/the-2023-android-developer-roadmap.html#axzz8CXINxiZF
 - Code Review
-    - [ ]  https://roadmap.sh/best-practices/code-review
-    - [ ]  https://notion.yumemi.co.jp/flutter研修課題のレビュー観点表
+  - https://roadmap.sh/best-practices/code-review
+  - https://notion.yumemi.co.jp/flutter研修課題のレビュー観点表
 - Engineer Roadmap
-    - [ ]  https://github.com/MohamedAdelZidane/Roadmap-to-become-a-professional-Software-Engineer
+  - https://github.com/MohamedAdelZidane/Roadmap-to-become-a-professional-Software-Engineer
 - From Junior to Senior Engineer
-    - [ ]  https://github.com/readme/guides/engineering-career-success
+  - https://github.com/readme/guides/engineering-career-success
 - 100 Days Of Code
-    - [ ]  https://github.com/kallaway/100-days-of-code
+  - https://github.com/kallaway/100-days-of-code
 - Competitive Programming
   - Paiza
   - LeetCode
   - AtCoder
 - Flutter Development Architecture
-    - [ ]  https://codewithandrea.com/articles/comparison-flutter-app-architectures/
-    - [ ]  https://zenn.dev/chooyan/articles/17dde307509248#discuss
-    - [ ]  https://zenn.dev/chooyan/articles/eefc76dbd2ba25#discuss
-    - [ ]  https://www.dhiwise.com/post/choosing-the-best-flutter-app-architecture-for-app-development
-    - [ ]  https://medium.com/flutter-jp/architecture-240d3c56b597
-    - [ ]  https://verygood.ventures/blog/very-good-flutter-architecture
-    - [ ]  https://codingwitht.com/
+  - https://codewithandrea.com/articles/comparison-flutter-app-architectures/
+  - https://zenn.dev/chooyan/articles/17dde307509248#discuss
+  - https://zenn.dev/chooyan/articles/eefc76dbd2ba25#discuss
+  - https://www.dhiwise.com/post/choosing-the-best-flutter-app-architecture-for-app-development
+  - https://medium.com/flutter-jp/architecture-240d3c56b597
+  - https://verygood.ventures/blog/very-good-flutter-architecture
+  - https://codingwitht.com/
 
 ## Output
 
