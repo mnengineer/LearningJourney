@@ -17,11 +17,11 @@ This repository is a record of my journey in technical learning, including techn
 
 ## 2024 Goals
 
-**『To be fluent in speaking English』**
+**『 To be fluent in speaking English 』**
 - IELTS 6.5
 - TOEIC 900
 
-**『To be an expert Android Engineer』**
+**『 To be an expert Android Engineer 』**
 - Earn a monthly rate of 1 million yen
 - Keep up-to-date with the latest AI technologies and master their application (including GPTs, Copilot).
 - Acquire skills in related technologies (iOS/Swift, Flutter, Dart, Firebase, TypeScript, React, Docker, etc.).
