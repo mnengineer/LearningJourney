@@ -5,7 +5,6 @@ This repository is a record of my journey in technical learning, including techn
 ## Contents
 
 - [Learning Journey](#learning-journey)
-  - [Contents](#contents)
   - [2024 Goals](#2024-goals)
   - [Books](#books)
   - [Personal Learning Areas](#personal-learning-areas)
