@@ -10,8 +10,6 @@ This repository is a record of my journey in technical learning, including techn
   - [Books](#books)
   - [Personal Learning Areas](#personal-learning-areas)
   - [Input](#input)
-    - [English](#english)
-    - [Programming](#programming)
   - [Output](#output)
   - [Todo](#todo)
 
