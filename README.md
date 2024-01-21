@@ -197,8 +197,6 @@ This repository is a record of my journey in technical learning, including techn
 - Knowledge of version upgrades and SDKs, etc.
 - Familiarity with Agile and Scrum development
 
-**自分は上位1%の優秀なエンジニアでスムーズに0→10でアプリを開発し顧客を満足させ利益を上げる存在である**
-
 ## ⭐️ Reference person ⭐️
 
 - https://github.com/mono0926
