@@ -143,9 +143,6 @@ Programming
     - [ ]  https://medium.com/flutter-jp/architecture-240d3c56b597
     - [ ]  https://verygood.ventures/blog/very-good-flutter-architecture
     - [ ]  https://codingwitht.com/
-- RiverPod
-    - [ ]  https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/
-    - [ ]  https://zenn.dev/nameless_sn/articles/flutter-riverpod
 
 ## Output
 
