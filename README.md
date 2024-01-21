@@ -28,15 +28,25 @@ This repository is a record of my journey in technical learning, including techn
 
 ## Books
 
-- [x] OOP - Why Object-Oriented?
-- [x] Readable Code
-- [x] Clean Code - Agile Software Craftsman's Techniques
-- [x] Clean Architecture - Learning from the Experts
-- [ ] Principles of Programming
-- [ ] Introduction to Design with Good/Bad Code Examples
-- [ ] How Networks Connect
-- [ ] How Programs Work
-- [ ] Thinking Method of World-Class Engineers
+**Kindle**
+- [x] OOP - オブジェクト指向でなぜ作るのか
+- [x] リーダブルコード
+- [x] Clean Code アジャイルソフトウェア達人の技
+- [x] Clean Architecture 達人に学ぶソフトウェアの構造と設計
+- [ ] プリンシプルオブプログラミング
+- [ ] 良いコード/悪いコードで学ぶ設計入門
+- [ ] ネットワークはなぜつながるのか
+- [ ] プログラムはなぜ動くのか
+- [ ] 世界一流エンジニアの思考法
+
+**Udemy**
+- [x] [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+- [x] [ゼロからはじめる Dockerによるアプリケーション実行環境構築](https://www.udemy.com/course/docker-k/)
+- [ ] [【Android開発/2023年版】３つのアプリを作りながらJetpack Composeでのアプリ開発の基礎をマスター](https://www.udemy.com/course/android_jetpack_compose_beginner/)
+- [ ] [The Complete Android Kotlin Developer Course](https://www.udemy.com/course/draft/1207960/learn/lecture/7128816?start=0#overview)
+- [ ] [Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版](https://www.udemy.com/course/react_stepup/)
+- [ ] [React(v18)完全入門ガイド｜Hooks、Next.js、Redux、TypeScript](https://www.udemy.com/course/react-complete-guide/)
+- [ ] [ネットワークエンジニアを目指す初心者はここから始めよう！「ゼロから学ぶネットワーク基礎」豊富な図解で徹底解説](https://www.udemy.com/course/network_fundamentals_starting_from_zero/)
 
 ## Personal Learning Areas
 
