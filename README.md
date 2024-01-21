@@ -1,7 +1,7 @@
 # Learning Journey
 
 ## Overview
-This repository is a central hub for all my learning activities including Computer Science, English, and studies from books.
+This repository documents my journey in technical learning, encompassing tech skills, English proficiency, and insights from book studies. It consolidates learning outputs, progress, and reflections, charting my technological growth and personal development.
 
 ## 2024 Goals
 English 
