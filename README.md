@@ -42,7 +42,6 @@ This repository is a record of my journey in technical learning, including techn
 - [ ] [The Complete Android Kotlin Developer Course](https://www.udemy.com/course/draft/1207960/learn/lecture/7128816?start=0#overview)
 - [ ] [Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版](https://www.udemy.com/course/react_stepup/)
 - [ ] [React(v18)完全入門ガイド｜Hooks、Next.js、Redux、TypeScript](https://www.udemy.com/course/react-complete-guide/)
-- [ ] [ネットワークエンジニアを目指す初心者はここから始めよう！「ゼロから学ぶネットワーク基礎」豊富な図解で徹底解説](https://www.udemy.com/course/network_fundamentals_starting_from_zero/)
 
 ## Fields Of Interest
 
