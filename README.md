@@ -48,7 +48,7 @@ This repository is a record of my journey in technical learning, including techn
 - [ ] [React(v18)完全入門ガイド｜Hooks、Next.js、Redux、TypeScript](https://www.udemy.com/course/react-complete-guide/)
 - [ ] [ネットワークエンジニアを目指す初心者はここから始めよう！「ゼロから学ぶネットワーク基礎」豊富な図解で徹底解説](https://www.udemy.com/course/network_fundamentals_starting_from_zero/)
 
-## Personal Learning Areas
+## Fields I want to study personally
 
 1. Math
 2. Science
