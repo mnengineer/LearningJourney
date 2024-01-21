@@ -25,6 +25,7 @@ To be an expert Android Engineer
 1. Earn a monthly rate of 1 million yen
 2. Keep up-to-date with the latest AI technologies and master their application (including GPTs, Copilot).
 3. Acquire skills in related technologies (iOS/Swift, Flutter, Dart, Firebase, TypeScript, React, Docker, etc.).
+
 ## Books
 
 - [x] OOP - Why Object-Oriented?
