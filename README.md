@@ -66,7 +66,7 @@ This repository is a record of my journey in technical learning, including techn
 
 **For all things, "why use this technology" should be properly understood and considered before use.**
 
-### English
+**English**
 
 - [Pronunciation and Voice](https://www.youtube.com/@aiueophonics)
 - Basic Grammar In Use
@@ -89,7 +89,7 @@ This repository is a record of my journey in technical learning, including techn
     - ELSA (Pronunciation and Phonetic Symbol)
     - Drops (Memorize words with images)
 
-### Programming
+**Programming**
 
 - Kotlin / Android
     - [ ]  https://kotlinlang.org/
