@@ -157,7 +157,7 @@ This repository is a record of my journey in technical learning, including techn
 
 **Output based on Github platform**
 
-## TODO
+## Todo
 
 - Update README
   - [Github Profile](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
