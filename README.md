@@ -1,20 +1,34 @@
 # Learning Journey
 
-## Overview
-This repository documents my journey in technical learning, encompassing tech skills, English proficiency, and insights from book studies. It consolidates learning outputs, progress, and reflections, charting my technological growth and personal development.
+This repository is a record of my journey in technical learning, including technical skills, English language proficiency, and learning from book learning. It is intended to integrate learning outcomes, progress, and reflections to collectively manage my technical and personal growth.
+
+## Contents
+
+- [Learning Journey](#learning-journey)
+  - [Contents](#contents)
+  - [2024 Goals](#2024-goals)
+  - [Books](#books)
+  - [Personal Learning Areas](#personal-learning-areas)
+  - [Input](#input)
+    - [English](#english)
+    - [Programming](#programming)
+  - [Output](#output)
+  - [TODO](#todo)
 
 ## 2024 Goals
+
 English 
 - IELTS 6.5
 - TOEIC 900
 
 Programming
-1. 1 million yen per month
-2. Android Expert Engineer
-3. AI, GPTs, Copilot
-4. ( ※ iOS/Swift, Flutter, Dart, Firebase, TypeScript, React, Docker )
+1. Earn a monthly rate of 1 million yen
+2. Become an expert Android engineer
+3. Stay abreast of the latest trends in AI technologies and master their use (GPTs / Copilot)
+4. ( ※ Including iOS/Swift, Flutter, Dart, Firebase, TypeScript, React, Docker ... )
 
 ## Books
+
 - [x] OOP - Why Object-Oriented?
 - [x] Readable Code
 - [x] Clean Code - Agile Software Craftsman's Techniques
@@ -26,6 +40,7 @@ Programming
 - [ ] Thinking Method of World-Class Engineers
 
 ## Personal Learning Areas
+
 1. Math
 2. Science
 3. Physics
@@ -38,11 +53,12 @@ Programming
 10. Quantum Mechanics
 11. Quantum Computers
 
-## 2. Input
+## Input
 
-"Why am I using this?" Understand and logically consider everything before using.
+**For all things, "why use this technology" should be properly understood and considered before use.**
 
 ### English
+
 - [Pronunciation and Voice](https://www.youtube.com/@aiueophonics)
 - Basic Grammar In Use
 - ChatGPT Voice
@@ -65,6 +81,7 @@ Programming
     - Drops (Memorize words with images)
 
 ### Programming
+
 - Kotlin / Android
     - [ ]  https://kotlinlang.org/
     - [ ]  https://developer.android.com/?hl=ja
@@ -130,7 +147,11 @@ Programming
     - [ ]  https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/
     - [ ]  https://zenn.dev/nameless_sn/articles/flutter-riverpod
 
-**TODO**
+## Output
+
+**Output based on Github platform**
+
+## TODO
 
 - Update README
   - [Github Profile](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
