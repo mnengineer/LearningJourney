@@ -5,8 +5,8 @@ This repository is a record of my journey in technical learning, including techn
 ## Contents
 
 - [2024 Goals](#2024-goals)
-- [Books](#books)
-- [Personal Learning Areas](#personal-learning-areas)
+- [Learning Resources](#learning-resources)
+- [Fields Of Interest](#fields-of-interest)
 - [Input](#input)
 - [Output](#output)
 - [Todo](#todo)
@@ -22,7 +22,7 @@ This repository is a record of my journey in technical learning, including techn
 - Keep up-to-date with the latest AI technologies and master their application (including GPTs, Copilot).
 - Acquire skills in related technologies (iOS/Swift, Flutter, Dart, Firebase, TypeScript, React, Docker, etc.).
 
-## Books
+## Learning Resources
 
 **Kindle**
 - [x] OOP - オブジェクト指向でなぜ作るのか
@@ -44,7 +44,7 @@ This repository is a record of my journey in technical learning, including techn
 - [ ] [React(v18)完全入門ガイド｜Hooks、Next.js、Redux、TypeScript](https://www.udemy.com/course/react-complete-guide/)
 - [ ] [ネットワークエンジニアを目指す初心者はここから始めよう！「ゼロから学ぶネットワーク基礎」豊富な図解で徹底解説](https://www.udemy.com/course/network_fundamentals_starting_from_zero/)
 
-## Fields of interest
+## Fields Of Interest
 
 1. Math
 2. Science
