@@ -15,10 +15,10 @@ Programming
 4. ( ※ iOS/Swift, Flutter, Dart, Firebase, TypeScript, React, Docker )
 
 ## Books
-- [ ] OOP - Why Object-Oriented?
-- [ ] Readable Code
-- [ ] Clean Code - Agile Software Craftsman's Techniques
-- [ ] Clean Architecture - Learning from the Experts
+- [x] OOP - Why Object-Oriented?
+- [x] Readable Code
+- [x] Clean Code - Agile Software Craftsman's Techniques
+- [x] Clean Architecture - Learning from the Experts
 - [ ] Principles of Programming
 - [ ] Introduction to Design with Good/Bad Code Examples
 - [ ] How Networks Connect
