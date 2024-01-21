@@ -13,7 +13,7 @@ This repository is a record of my journey in technical learning, including techn
     - [English](#english)
     - [Programming](#programming)
   - [Output](#output)
-  - [TODO](#todo)
+  - [Todo](#todo)
 
 ## 2024 Goals
 
