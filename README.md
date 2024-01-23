@@ -1,6 +1,6 @@
 # Learning Journey
 
-This repository is a record of my journey in technical learning, including technical skills, English language proficiency, and insights gained from book studies. It is intended to integrate learning outcomes, progress, and reflections to collectively manage my technical and personal growth. 
+This repository is a record of my journey in technical learning, including technical skills, English language proficiency, and insights gained from book studies. It is intended to integrate learning outcomes, progress, and reflections to collectively manage my technical and personal growth.
 
 ## Contents
 
