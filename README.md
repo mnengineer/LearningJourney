@@ -18,7 +18,6 @@ This repository is a record of my journey in technical learning, including techn
 - TOEIC 900
 
 **『 To be an expert Android Engineer 』**
-- Earn a monthly rate of 1 million yen
 - Keep up-to-date with the latest AI technologies and master their application (including GPTs, Copilot).
 - Acquire skills in related technologies (iOS/Swift, Flutter, Dart, Firebase, TypeScript, React, Docker, etc.).
 
@@ -63,7 +62,7 @@ This repository is a record of my journey in technical learning, including techn
 
 **English**
 
-- [Pronunciation and Voice](https://www.youtube.com/@aiueophonics)
+- Pronunciation and Voice
 - Basic Grammar In Use
 - ChatGPT Voice
   - Input
