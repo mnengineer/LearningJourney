@@ -77,7 +77,6 @@ This repository is a record of my journey in technical learning, including techn
     - Imitation (ph-1: Mouth and tongue movement, Facial expressions)
     - Record daily on my phone or Prepare a mirror
   - Other
-    - YouTube (Frequently Used Phrases)
     - VoiceTube (Shadowing and Native Expressions)
     - Speak (Practical English Conversation)
     - ELSA (Pronunciation and Phonetic Symbol)
