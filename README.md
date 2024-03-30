@@ -74,7 +74,6 @@ This repository is a record of my journey in technical learning, including techn
   - Output
     - Chunk (Response Speed)  ⇨ What I want to talk about (Topic or Live commentary)
     - Solo Conversation (Imagine the situation)
-    - Imitation (ph-1: Mouth and tongue movement, Facial expressions)
     - Record daily on my phone or Prepare a mirror
   - Other
     - VoiceTube (Shadowing and Native Expressions)
